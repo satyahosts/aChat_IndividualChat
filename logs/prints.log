@@ -1,0 +1,31 @@
+15:25:43.847 [main] INFO  Resources.base - Click loc icon
+15:25:45.536 [main] INFO  Resources.base - Click location file
+15:25:52.889 [main] INFO  Resources.base - Successfully send current location
+15:25:54.603 [main] INFO  Resources.base - Click attach icon
+15:25:56.975 [main] INFO  Resources.base - Click image file
+15:25:58.860 [main] INFO  Resources.base - Click photo
+15:26:04.110 [main] INFO  Resources.base - Successfully send camera photo
+15:26:12.086 [main] INFO  Resources.base - Successfully send audios
+15:26:17.942 [main] INFO  Resources.base - Successfully clicked message
+15:26:18.215 [main] INFO  Resources.base - Successfully clicked on reply icon
+15:26:19.396 [main] INFO  Resources.base - Successfully clicked on type text box
+15:26:21.244 [main] INFO  Resources.base - Successfully typed the text
+15:26:22.307 [main] INFO  Resources.base - Successfully clicked on send icon
+15:26:28.148 [main] INFO  Resources.base - Successfully clicked on forwareded message
+15:26:28.436 [main] INFO  Resources.base - Successfully clicked on forward icon
+15:26:32.056 [main] INFO  Resources.base - Successfully clicked on forward contact
+15:26:32.283 [main] INFO  Resources.base - Successfully clicked on contact send icon
+15:26:34.994 [main] INFO  Resources.base - Click voicecall
+15:26:36.605 [main] INFO  Resources.base - Disconnect the call
+15:26:39.442 [main] INFO  Resources.base - Click videoccall
+15:26:41.641 [main] INFO  Resources.base - Disconnect the call
+15:26:46.457 [main] INFO  Resources.base - Clicked on more options icon
+15:26:48.610 [main] INFO  Resources.base - Clicked on mute option
+15:26:48.814 [main] INFO  Resources.base - Clicked on mutechat radio button
+15:26:49.500 [main] INFO  Resources.base - Successfully clicked on OK text
+15:26:50.364 [main] INFO  Resources.base - Successfully page navigated
+15:26:53.343 [main] INFO  Resources.base - Successfully page navigated to chats
+15:26:59.038 [main] INFO  Resources.base - Successfully clicked on muted contact
+15:27:00.036 [main] INFO  Resources.base - Successfully clicked on unmute icon
+15:27:04.817 [main] INFO  Resources.base - Successfully clicked on muted contact
+15:27:05.884 [main] INFO  Resources.base - Successfully chat has been cleared

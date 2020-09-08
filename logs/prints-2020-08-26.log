@@ -1,0 +1,156 @@
+18:21:51.226 [main] INFO  Resources.base - select timer
+18:21:51.599 [main] INFO  Resources.base - Click text message box
+18:21:54.214 [main] INFO  Resources.base - Successfully send message
+18:21:55.759 [main] INFO  Resources.base - Click timer icon
+18:21:58.075 [main] INFO  Resources.base - Timer is off
+18:21:58.882 [main] INFO  Resources.base - Click image icon
+18:22:01.991 [main] INFO  Resources.base - Click image file
+18:22:03.687 [main] INFO  Resources.base - Click image category
+18:22:05.958 [main] INFO  Resources.base - Click images
+18:22:07.090 [main] INFO  Resources.base - Confirmed the image
+18:22:09.580 [main] INFO  Resources.base - Confirm the images
+18:22:11.891 [main] INFO  Resources.base - Successfully send images
+18:22:15.877 [main] INFO  Resources.base - Click attach icon
+18:22:18.772 [main] INFO  Resources.base - Select document  file
+18:22:19.373 [main] INFO  Resources.base - Click document category
+18:22:20.773 [main] INFO  Resources.base - Sucessfully send documents
+18:22:24.083 [main] INFO  Resources.base - Click video image icon
+18:22:25.026 [main] INFO  Resources.base - Click video file icon
+18:22:28.397 [main] INFO  Resources.base - Click video category
+18:22:30.437 [main] INFO  Resources.base - choose videos
+18:22:31.562 [main] INFO  Resources.base - Video selected
+18:22:34.414 [main] INFO  Resources.base - Confirmed the videos
+18:22:38.412 [main] INFO  Resources.base - Successfully send videos
+18:22:41.678 [main] INFO  Resources.base - Click loc icon
+18:22:42.752 [main] INFO  Resources.base - Click location file
+18:31:28.734 [main] INFO  Resources.base - Enter new pin
+18:31:30.072 [main] INFO  Resources.base - Enter confirm pin
+18:31:30.072 [main] INFO  Resources.base - Intilized Achat Application
+18:31:41.810 [main] INFO  Resources.base - Match the contacts and selected
+18:31:45.397 [main] INFO  Resources.base - Click text message box
+18:31:49.076 [main] INFO  Resources.base - Successfully send message
+18:31:51.747 [main] INFO  Resources.base - Click timer icon
+18:31:55.178 [main] INFO  Resources.base - select timer
+18:31:55.485 [main] INFO  Resources.base - Click text message box
+18:31:58.109 [main] INFO  Resources.base - Successfully send message
+18:32:00.498 [main] INFO  Resources.base - Click timer icon
+18:32:03.587 [main] INFO  Resources.base - Timer is off
+18:32:04.342 [main] INFO  Resources.base - Click image icon
+18:32:05.842 [main] INFO  Resources.base - Click image file
+18:32:09.875 [main] INFO  Resources.base - Click image category
+18:32:12.012 [main] INFO  Resources.base - Click images
+18:32:13.210 [main] INFO  Resources.base - Confirmed the image
+18:32:15.612 [main] INFO  Resources.base - Confirm the images
+18:32:17.930 [main] INFO  Resources.base - Successfully send images
+18:32:23.035 [main] INFO  Resources.base - Click attach icon
+18:32:24.517 [main] INFO  Resources.base - Select document  file
+18:32:27.035 [main] INFO  Resources.base - Click document category
+18:32:29.674 [main] INFO  Resources.base - Sucessfully send documents
+18:32:33.666 [main] INFO  Resources.base - Click video image icon
+18:32:35.146 [main] INFO  Resources.base - Click video file icon
+18:32:38.580 [main] INFO  Resources.base - Click video category
+18:32:40.829 [main] INFO  Resources.base - choose videos
+18:32:41.955 [main] INFO  Resources.base - Video selected
+18:32:44.299 [main] INFO  Resources.base - Confirmed the videos
+18:32:47.110 [main] INFO  Resources.base - Successfully send videos
+18:32:56.437 [main] INFO  Resources.base - Click loc icon
+18:33:06.629 [main] INFO  Resources.base - Click location file
+18:40:04.260 [main] INFO  Resources.base - Enter new pin
+18:40:05.731 [main] INFO  Resources.base - Enter confirm pin
+18:40:05.732 [main] INFO  Resources.base - Intilized Achat Application
+18:40:13.244 [main] INFO  Resources.base - Match the contacts and selected
+18:40:13.687 [main] INFO  Resources.base - Click text message box
+18:40:16.000 [main] INFO  Resources.base - Successfully send message
+18:40:17.549 [main] INFO  Resources.base - Click timer icon
+18:40:19.917 [main] INFO  Resources.base - select timer
+18:40:21.253 [main] INFO  Resources.base - Click text message box
+18:40:23.645 [main] INFO  Resources.base - Successfully send message
+18:40:24.712 [main] INFO  Resources.base - Click timer icon
+18:40:26.559 [main] INFO  Resources.base - Timer is off
+18:40:27.209 [main] INFO  Resources.base - Click image icon
+18:40:29.575 [main] INFO  Resources.base - Click image file
+18:40:30.000 [main] INFO  Resources.base - Click image category
+18:40:31.551 [main] INFO  Resources.base - Click images
+18:40:32.734 [main] INFO  Resources.base - Confirmed the image
+18:40:34.313 [main] INFO  Resources.base - Confirm the images
+18:40:35.744 [main] INFO  Resources.base - Successfully send images
+18:40:38.536 [main] INFO  Resources.base - Click attach icon
+18:40:39.993 [main] INFO  Resources.base - Select document  file
+18:40:40.272 [main] INFO  Resources.base - Click document category
+18:44:21.934 [main] INFO  Resources.base - Enter new pin
+18:44:23.410 [main] INFO  Resources.base - Enter confirm pin
+18:44:23.410 [main] INFO  Resources.base - Intilized Achat Application
+18:44:30.931 [main] INFO  Resources.base - Match the contacts and selected
+18:44:31.517 [main] INFO  Resources.base - Click text message box
+18:44:34.383 [main] INFO  Resources.base - Successfully send message
+18:44:35.600 [main] INFO  Resources.base - Click timer icon
+18:44:37.906 [main] INFO  Resources.base - select timer
+18:44:39.103 [main] INFO  Resources.base - Click text message box
+18:44:41.279 [main] INFO  Resources.base - Successfully send message
+18:44:42.413 [main] INFO  Resources.base - Click timer icon
+18:44:44.798 [main] INFO  Resources.base - Timer is off
+18:44:45.135 [main] INFO  Resources.base - Click image icon
+18:44:47.782 [main] INFO  Resources.base - Click image file
+18:44:48.103 [main] INFO  Resources.base - Click image category
+18:44:49.548 [main] INFO  Resources.base - Click images
+18:44:50.724 [main] INFO  Resources.base - Confirmed the image
+18:44:52.317 [main] INFO  Resources.base - Confirm the images
+18:44:53.798 [main] INFO  Resources.base - Successfully send images
+18:44:56.748 [main] INFO  Resources.base - Click attach icon
+18:44:57.212 [main] INFO  Resources.base - Select document  file
+18:44:58.590 [main] INFO  Resources.base - Click document category
+18:44:59.827 [main] INFO  Resources.base - Sucessfully send documents
+18:45:02.443 [main] INFO  Resources.base - Click video image icon
+18:45:04.430 [main] INFO  Resources.base - Click video file icon
+18:45:04.968 [main] INFO  Resources.base - Click video category
+18:45:07.349 [main] INFO  Resources.base - choose videos
+18:45:08.524 [main] INFO  Resources.base - Video selected
+18:45:10.504 [main] INFO  Resources.base - Confirmed the videos
+18:45:12.147 [main] INFO  Resources.base - Successfully send videos
+18:45:13.615 [main] INFO  Resources.base - Click image icon
+18:45:20.134 [main] INFO  Resources.base - Click audio file
+19:08:01.319 [main] INFO  Resources.base - Enter new pin
+19:08:02.514 [main] INFO  Resources.base - Enter confirm pin
+19:08:02.515 [main] INFO  Resources.base - Intilized Achat Application
+19:08:11.194 [main] INFO  Resources.base - Match the contacts and selected
+19:08:11.661 [main] INFO  Resources.base - Click text message box
+19:08:14.617 [main] INFO  Resources.base - Successfully send message
+19:08:15.673 [main] INFO  Resources.base - Click timer icon
+19:08:18.210 [main] INFO  Resources.base - select timer
+19:08:19.393 [main] INFO  Resources.base - Click text message box
+19:08:21.582 [main] INFO  Resources.base - Successfully send message
+19:08:22.586 [main] INFO  Resources.base - Click timer icon
+19:08:24.417 [main] INFO  Resources.base - Timer is off
+19:08:24.741 [main] INFO  Resources.base - Click image icon
+19:08:25.885 [main] INFO  Resources.base - Click image file
+19:08:27.960 [main] INFO  Resources.base - Click image category
+19:08:29.760 [main] INFO  Resources.base - Click images
+19:08:30.974 [main] INFO  Resources.base - Confirmed the image
+19:08:32.605 [main] INFO  Resources.base - Confirm the images
+19:08:34.071 [main] INFO  Resources.base - Successfully send images
+19:08:36.343 [main] INFO  Resources.base - Click attach icon
+19:08:37.737 [main] INFO  Resources.base - Select document  file
+19:08:38.169 [main] INFO  Resources.base - Click document category
+19:08:39.439 [main] INFO  Resources.base - Sucessfully send documents
+19:08:41.250 [main] INFO  Resources.base - Click video image icon
+19:08:43.948 [main] INFO  Resources.base - Click video file icon
+19:08:44.511 [main] INFO  Resources.base - Click video category
+19:08:47.557 [main] INFO  Resources.base - choose videos
+19:08:48.796 [main] INFO  Resources.base - Video selected
+19:08:50.808 [main] INFO  Resources.base - Confirmed the videos
+19:08:52.569 [main] INFO  Resources.base - Successfully send videos
+19:08:59.123 [main] INFO  Resources.base - Click image icon
+19:09:04.187 [main] INFO  Resources.base - Click audio file
+19:12:22.297 [main] INFO  Resources.base - Enter new pin
+19:12:23.773 [main] INFO  Resources.base - Enter confirm pin
+19:12:23.773 [main] INFO  Resources.base - Intilized Achat Application
+19:12:31.750 [main] INFO  Resources.base - Match the contacts and selected
+19:12:32.135 [main] INFO  Resources.base - Click text message box
+19:12:35.015 [main] INFO  Resources.base - Successfully send message
+19:12:36.040 [main] INFO  Resources.base - Click timer icon
+19:12:37.898 [main] INFO  Resources.base - select timer
+19:12:39.547 [main] INFO  Resources.base - Click text message box
+19:12:41.801 [main] INFO  Resources.base - Successfully send message
+19:12:42.841 [main] INFO  Resources.base - Click timer icon
+19:12:44.816 [main] INFO  Resources.base - Timer is off
+19:12:46.359 [main] INFO  Resources.base - Click image icon

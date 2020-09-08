@@ -1,0 +1,147 @@
+15:12:27.261 [main] INFO  Resources.base - Click image category
+15:12:28.769 [main] INFO  Resources.base - Click images
+15:12:29.690 [main] INFO  Resources.base - Confirmed the image
+15:12:31.303 [main] INFO  Resources.base - Confirm the images
+15:12:33.702 [main] INFO  Resources.base - Successfully send images
+15:12:37.348 [main] INFO  Resources.base - Click attach icon
+15:12:37.645 [main] INFO  Resources.base - Select document  file
+15:12:39.085 [main] INFO  Resources.base - Click document category
+15:12:40.394 [main] INFO  Resources.base - Sucessfully send documents
+15:12:41.909 [main] INFO  Resources.base - Click video image icon
+15:12:43.906 [main] INFO  Resources.base - Click video file icon
+15:12:44.138 [main] INFO  Resources.base - Click video category
+15:12:46.119 [main] INFO  Resources.base - choose videos
+15:12:46.927 [main] INFO  Resources.base - Video selected
+15:12:49.021 [main] INFO  Resources.base - Confirmed the videos
+15:12:51.373 [main] INFO  Resources.base - Successfully send videos
+15:12:59.031 [main] INFO  Resources.base - Click image icon
+15:13:01.601 [main] INFO  Resources.base - Click audio file
+15:13:01.790 [main] INFO  Resources.base - Successfully send audios
+15:13:11.279 [main] INFO  Resources.base - Click loc icon
+15:13:12.165 [main] INFO  Resources.base - Click location file
+15:13:25.559 [main] INFO  Resources.base - Successfully send current location
+15:13:25.966 [main] INFO  Resources.base - Click attach icon
+15:13:28.231 [main] INFO  Resources.base - Click image file
+15:13:30.214 [main] INFO  Resources.base - Click photo
+15:13:35.814 [main] INFO  Resources.base - Successfully send camera photo
+15:13:43.736 [main] INFO  Resources.base - Successfully send audios
+15:13:50.642 [main] INFO  Resources.base - Successfully clicked message
+15:13:50.894 [main] INFO  Resources.base - Successfully clicked on reply icon
+15:13:52.244 [main] INFO  Resources.base - Successfully clicked on type text box
+15:13:54.256 [main] INFO  Resources.base - Successfully typed the text
+15:13:55.943 [main] INFO  Resources.base - Successfully clicked on send icon
+15:14:01.631 [main] INFO  Resources.base - Successfully clicked on forwareded message
+15:14:01.910 [main] INFO  Resources.base - Successfully clicked on forward icon
+15:14:04.949 [main] INFO  Resources.base - Successfully clicked on forward contact
+15:14:05.195 [main] INFO  Resources.base - Successfully clicked on contact send icon
+15:14:07.512 [main] INFO  Resources.base - Click voicecall
+15:14:09.474 [main] INFO  Resources.base - Disconnect the call
+15:14:13.128 [main] INFO  Resources.base - Click videoccall
+15:14:15.327 [main] INFO  Resources.base - Disconnect the call
+15:14:20.204 [main] INFO  Resources.base - Clicked on more options icon
+15:14:22.459 [main] INFO  Resources.base - Clicked on mute option
+15:14:23.159 [main] INFO  Resources.base - Clicked on mutechat radio button
+15:14:23.376 [main] INFO  Resources.base - Successfully clicked on OK text
+15:14:24.365 [main] INFO  Resources.base - Successfully page navigated
+15:14:27.154 [main] INFO  Resources.base - Successfully page navigated to chats
+15:14:32.864 [main] INFO  Resources.base - Successfully clicked on muted contact
+15:14:34.331 [main] INFO  Resources.base - Successfully clicked on unmute icon
+15:14:39.195 [main] INFO  Resources.base - Successfully clicked on muted contact
+15:14:40.431 [main] INFO  Resources.base - Successfully chat has been cleared
+15:19:33.580 [main] INFO  Resources.base - Enter new pin
+15:19:35.071 [main] INFO  Resources.base - Enter confirm pin
+15:19:35.071 [main] INFO  Resources.base - Intilized Achat Application
+15:19:43.741 [main] INFO  Resources.base - Match the contacts and selected
+15:19:45.105 [main] INFO  Resources.base - Click text message box
+15:19:48.003 [main] INFO  Resources.base - Successfully send message
+15:19:49.211 [main] INFO  Resources.base - Click timer icon
+15:19:51.162 [main] INFO  Resources.base - select timer
+15:19:53.127 [main] INFO  Resources.base - Click text message box
+15:19:55.312 [main] INFO  Resources.base - Successfully send message
+15:19:56.412 [main] INFO  Resources.base - Click timer icon
+15:19:58.702 [main] INFO  Resources.base - Timer is off
+15:19:59.450 [main] INFO  Resources.base - Click image icon
+15:20:01.928 [main] INFO  Resources.base - Click image file
+15:20:02.384 [main] INFO  Resources.base - Click image category
+15:20:05.068 [main] INFO  Resources.base - Click images
+15:20:06.156 [main] INFO  Resources.base - Confirmed the image
+15:20:07.848 [main] INFO  Resources.base - Confirm the images
+15:20:10.133 [main] INFO  Resources.base - Successfully send images
+15:20:12.331 [main] INFO  Resources.base - Click attach icon
+15:20:15.033 [main] INFO  Resources.base - Select document  file
+15:20:15.506 [main] INFO  Resources.base - Click document category
+15:20:17.209 [main] INFO  Resources.base - Sucessfully send documents
+15:20:19.442 [main] INFO  Resources.base - Click video image icon
+15:20:21.636 [main] INFO  Resources.base - Click video file icon
+15:20:21.867 [main] INFO  Resources.base - Click video category
+15:20:24.231 [main] INFO  Resources.base - choose videos
+15:20:25.036 [main] INFO  Resources.base - Video selected
+15:20:27.384 [main] INFO  Resources.base - Confirmed the videos
+15:20:29.512 [main] INFO  Resources.base - Successfully send videos
+15:20:37.308 [main] INFO  Resources.base - Click image icon
+15:20:39.398 [main] INFO  Resources.base - Click audio file
+15:20:39.514 [main] INFO  Resources.base - Successfully send audios
+15:20:47.798 [main] INFO  Resources.base - Click loc icon
+15:20:49.459 [main] INFO  Resources.base - Click location file
+15:20:57.123 [main] INFO  Resources.base - Successfully send current location
+15:20:58.886 [main] INFO  Resources.base - Click attach icon
+15:21:01.350 [main] INFO  Resources.base - Click image file
+15:21:03.185 [main] INFO  Resources.base - Click photo
+15:21:08.292 [main] INFO  Resources.base - Successfully send camera photo
+15:21:17.917 [main] INFO  Resources.base - Successfully send audios
+15:21:23.395 [main] INFO  Resources.base - Successfully clicked message
+15:21:23.611 [main] INFO  Resources.base - Successfully clicked on reply icon
+15:21:24.930 [main] INFO  Resources.base - Successfully clicked on type text box
+15:21:26.934 [main] INFO  Resources.base - Successfully typed the text
+15:21:28.907 [main] INFO  Resources.base - Successfully clicked on send icon
+15:21:33.765 [main] INFO  Resources.base - Successfully clicked on forwareded message
+15:21:34.050 [main] INFO  Resources.base - Successfully clicked on forward icon
+15:21:36.151 [main] INFO  Resources.base - Successfully clicked on forward contact
+15:21:36.384 [main] INFO  Resources.base - Successfully clicked on contact send icon
+15:21:38.694 [main] INFO  Resources.base - Click voicecall
+15:21:40.458 [main] INFO  Resources.base - Disconnect the call
+15:21:43.327 [main] INFO  Resources.base - Click videoccall
+15:21:45.617 [main] INFO  Resources.base - Disconnect the call
+15:21:50.580 [main] INFO  Resources.base - Clicked on more options icon
+15:21:52.851 [main] INFO  Resources.base - Clicked on mute option
+15:21:53.120 [main] INFO  Resources.base - Clicked on mutechat radio button
+15:21:53.845 [main] INFO  Resources.base - Successfully clicked on OK text
+15:21:54.646 [main] INFO  Resources.base - Successfully page navigated
+15:21:57.645 [main] INFO  Resources.base - Successfully page navigated to chats
+15:22:03.384 [main] INFO  Resources.base - Successfully clicked on muted contact
+15:22:04.433 [main] INFO  Resources.base - Successfully clicked on unmute icon
+15:22:09.244 [main] INFO  Resources.base - Successfully clicked on muted contact
+15:22:10.326 [main] INFO  Resources.base - Successfully chat has been cleared
+15:24:34.570 [main] INFO  Resources.base - Enter new pin
+15:24:36.061 [main] INFO  Resources.base - Enter confirm pin
+15:24:36.061 [main] INFO  Resources.base - Intilized Achat Application
+15:24:44.483 [main] INFO  Resources.base - Match the contacts and selected
+15:24:45.898 [main] INFO  Resources.base - Click text message box
+15:24:48.765 [main] INFO  Resources.base - Successfully send message
+15:24:49.983 [main] INFO  Resources.base - Click timer icon
+15:24:51.937 [main] INFO  Resources.base - select timer
+15:24:53.759 [main] INFO  Resources.base - Click text message box
+15:24:55.941 [main] INFO  Resources.base - Successfully send message
+15:24:57.075 [main] INFO  Resources.base - Click timer icon
+15:24:59.089 [main] INFO  Resources.base - Timer is off
+15:24:59.870 [main] INFO  Resources.base - Click image icon
+15:25:00.954 [main] INFO  Resources.base - Click image file
+15:25:02.767 [main] INFO  Resources.base - Click image category
+15:25:04.282 [main] INFO  Resources.base - Click images
+15:25:05.251 [main] INFO  Resources.base - Confirmed the image
+15:25:06.795 [main] INFO  Resources.base - Confirm the images
+15:25:09.077 [main] INFO  Resources.base - Successfully send images
+15:25:11.630 [main] INFO  Resources.base - Click attach icon
+15:25:14.042 [main] INFO  Resources.base - Select document  file
+15:25:14.423 [main] INFO  Resources.base - Click document category
+15:25:15.704 [main] INFO  Resources.base - Sucessfully send documents
+15:25:17.342 [main] INFO  Resources.base - Click video image icon
+15:25:19.420 [main] INFO  Resources.base - Click video file icon
+15:25:19.666 [main] INFO  Resources.base - Click video category
+15:25:21.199 [main] INFO  Resources.base - choose videos
+15:25:21.997 [main] INFO  Resources.base - Video selected
+15:25:23.902 [main] INFO  Resources.base - Confirmed the videos
+15:25:25.613 [main] INFO  Resources.base - Successfully send videos
+15:25:33.437 [main] INFO  Resources.base - Click image icon
+15:25:34.503 [main] INFO  Resources.base - Click audio file
+15:25:35.666 [main] INFO  Resources.base - Successfully send audios
